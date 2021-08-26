@@ -29,3 +29,11 @@ There are 3 files. The random_walk_2D_grid.py file creates a simulation of a 2D 
 The random_walk_2D_grid_animation.py file is once again a simulation on a grid, but this time we create an animation of the process.
 
 The random_walk_2D_animation.py creates an animation of a simulation of a 2D random walk, where we can move on an arbitraty point in the plane within radius one of the previous point.
+
+## 3D Random walk
+
+There are 3 files. The random_walk_3D_grid.py file creates a simulation of a 3D random walk where on each step we can only move to a neighbor on the grid.
+
+The random_walk_3D_grid_animation.py file is once again a simulation on a grid, but this time we create an animation of the process.
+
+The random_walk_3D_animation.py creates an animation of a simulation of a 3D random walk, where we can move on an arbitraty point in the plane within radius one of the previous point.
